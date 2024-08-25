@@ -15,7 +15,7 @@ Gem::Specification.new do |spec|
 
   spec.metadata["allowed_push_host"] = "TODO: Set to your gem server 'https://example.com'"
 
-  spec.metadata["homepage_uri"] = spec.homepage
+  spec.metadata["homepage_uri"] = "https://github.com/Saw-Kyaw-Myint/ruby_package"
   spec.metadata["source_code_uri"] = "https://github.com/Saw-Kyaw-Myint/ruby_package.git"
   spec.metadata["changelog_uri"] = "https://github.com/Saw-Kyaw-Myint/ruby_package/blob/main/README.md"
 
