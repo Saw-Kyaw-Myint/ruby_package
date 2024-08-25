@@ -12,7 +12,7 @@ Gem::Specification.new do |spec|
   spec.homepage = "https://github.com/Saw-Kyaw-Myint/ruby_package"
   spec.required_ruby_version = ">= 3.0.0"
 
-  spec.metadata["allowed_push_host"] = nil
+  spec.metadata["allowed_push_host"] = "https://gems.example.com"
 
   spec.metadata["homepage_uri"] = "https://github.com/Saw-Kyaw-Myint/ruby_package"
   spec.metadata["source_code_uri"] = "https://github.com/Saw-Kyaw-Myint/ruby_package.git"
